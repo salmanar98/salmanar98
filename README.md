@@ -1,134 +1,95 @@
-<div align="center">
+```markdown
+# Hey there 👋 I'm Salman
 
-# Hi, I'm Salman Arshad 👋
+I'm a **Full Stack Software Engineer** who enjoys building systems that scale—not just applications that work.
 
-### Full-Stack Software Engineer · React · Node.js · Cloud Deployments
-
-I build scalable web and mobile products, reliable APIs, data-rich interfaces, and deployment-ready systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-arshad-dev/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanarshad98@gmail.com)
-
-</div>
+Over the years I've worked across the stack, from crafting responsive frontends in **React/Next.js** to building backend services, AI-powered workflows, distributed systems, and cloud infrastructure. I enjoy taking an idea from a whiteboard sketch all the way to production, thinking about architecture, performance, maintainability, and everything in between.
 
 ---
 
-## About me
+## 🚀 What I enjoy building
 
-- Full-Stack Software Engineer with **3+ years of professional experience**
-- Building modern products with **React, Next.js, TypeScript, Node.js, and NestJS**
-- Designing and integrating reliable **REST APIs**, authentication, and data workflows
-- Working with **MongoDB**, complex queries, reusable components, and asynchronous state
-- Deploying applications with **AWS EC2, Amazon S3, Docker, Nginx, Linux, and CI/CD**
-- Focused on maintainable architecture, performance, debugging, and dependable delivery
+- End-to-end products that solve real business problems.
+- Scalable architectures using event-driven communication, asynchronous processing, and loosely coupled services.
+- AI-powered applications with RAG pipelines, embeddings, vector search, LLM integrations, and intelligent automation.
+- Cloud-native systems on AWS with containerized deployments, background workers, and managed infrastructure.
+- Multi-tenant platforms where scalability, tenant isolation, and maintainability are first-class concerns.
+- Real-time systems involving event streaming, messaging, video delivery, and high-throughput data processing.
 
 ---
 
-## Technology stack
+## ⚡ Engineering is where I have the most fun
 
-<table>
-<tr>
-<td valign="top" width="33%">
+I enjoy digging into the **why** behind performance problems instead of throwing more hardware at them. Whether it's optimizing a React render cycle, shaving milliseconds off a database query, or redesigning an asynchronous workflow, I like understanding the bottleneck before reaching for a solution.
 
 ### Frontend
 
-- React.js
-- Next.js
-- React Native
-- TypeScript
-- JavaScript
-- Redux Thunk
-- Tailwind CSS
-- Material UI
-- ag-Grid
+- Building modular, reusable component systems
+- Code splitting, lazy loading, and bundle optimization
+- Memoization (`React.memo`, `useMemo`, `useCallback`) and render profiling
+- Virtualization for large datasets and infinite scrolling
+- SSR, CSR, and SSG architecture trade-offs
+- Efficient state management and predictable data flow
 
-</td>
-<td valign="top" width="33%">
+### Backend
 
-### Backend & Data
+- Designing APIs that evolve gracefully as products grow
+- Event-driven architectures with Kafka, RabbitMQ, BullMQ, and AWS SQS
+- Background workers, schedulers, and asynchronous job processing
+- Concurrency, parallelism, and non-blocking workflows
+- Caching strategies with Redis
+- Authentication, authorization, and secure API design
+- Rate limiting, resiliency, and horizontally scalable services
 
-- Node.js
-- NestJS
-- REST APIs
-- Authentication
-- MongoDB
-- Mongo ODM
-- Multer
-- Query optimization
-- Cookie management
+### Data
 
-</td>
-<td valign="top" width="33%">
-
-### Cloud & Delivery
-
-- AWS EC2
-- Amazon S3
-- Docker
-- Nginx
-- Linux
-- CI/CD
-- Git & GitHub
-- Postman
-- Sentry
-
-</td>
-</tr>
-</table>
+- Relational and NoSQL database design
+- Query optimization, indexing strategies, and execution plan analysis
+- Connection pooling, pagination, and batch processing
+- Full-text search with Elasticsearch
+- Choosing the right persistence model based on access patterns instead of forcing every problem into the same database
 
 ---
 
-## Professional work
+## 🛠️ Things I've built with
 
-### Electrafy · Full-stack platform
+Instead of being tied to a single stack, I enjoy choosing technologies based on the engineering problem they solve.
 
-Delivered product modules and REST APIs across a React and Node.js application. Worked on authentication, cookie handling, Multer-powered downloads, external integrations, MongoDB workflows, query refactoring, and Sentry monitoring.
+**Frontend**
 
-### Flashboard · Data-rich frontend
+React • Next.js • React Native • TypeScript • JavaScript • Redux • Tailwind CSS • MUI
 
-Built reusable React components and complex interactive tables with ag-Grid. Integrated dynamic APIs, managed asynchronous state with Redux Thunk, and diagnosed production frontend issues with Sentry.
+**Backend**
 
-### Teamo · Web and mobile product
+Node.js • NestJS • Express • Django • FastAPI
 
-Contributed to product experiences across modern web and mobile technologies, with an emphasis on reusable UI, API integration, maintainability, and responsive delivery.
+**Distributed Systems**
 
----
+Kafka • RabbitMQ • BullMQ • AWS SQS • Event-Driven Architecture • Background Workers
 
-## What I enjoy building
+**Data**
 
-- Scalable full-stack web applications
-- Modern React and Next.js interfaces
-- Secure, well-structured REST APIs
-- Data-heavy dashboards and interactive tables
-- Cloud-hosted applications and deployment pipelines
-- Maintainable systems that are easy for teams to extend
+PostgreSQL • MySQL • MongoDB • DynamoDB • Redis • Elasticsearch
 
----
+**Cloud & DevOps**
 
-## GitHub activity
+AWS • ECS • Fargate • EC2 • S3 • RDS • Docker • Nginx
 
-<div align="center">
+**AI**
 
-![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanar98&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanar98&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e)
-
-</div>
+OpenAI • RAG • Embeddings • Vector Databases • AI Agents
 
 ---
 
-## A public project
+## 💡 How I think about software
 
-### [Assembly Snake Game](https://github.com/salmanar98/Assembly-Snake-game)
+For me, engineering is all about making thoughtful trade-offs.
 
-A classic Snake game implemented as an early programming project, demonstrating low-level logic and fundamental software development concepts.
+Sometimes that means introducing a queue instead of another synchronous API call. Sometimes it's optimizing a query instead of adding another database replica. Sometimes it's simplifying an architecture because the operational overhead isn't worth the abstraction.
+
+I enjoy designing systems that are modular, observable, resilient, and built to evolve. Clean architecture beats clever code every time.
 
 ---
 
-## Connect with me
-
-- **Email:** [salmanarshad98@gmail.com](mailto:salmanarshad98@gmail.com)
-- **LinkedIn:** [salman-arshad-dev](https://www.linkedin.com/in/salman-arshad-dev/)
-- **GitHub:** [salmanar98](https://github.com/salmanar98)
-
-> Building dependable digital products from interface to infrastructure.
+> *"Any fool can write code that a computer can understand. Good engineers write code that humans can understand—and systems that continue working long after the first deployment."*
+```
