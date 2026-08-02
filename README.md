@@ -1,4 +1,3 @@
-```markdown
 # Hey there 👋 I'm Salman
 
 I'm a **Full Stack Software Engineer** who enjoys building systems that scale—not just applications that work.
@@ -92,4 +91,3 @@ I enjoy designing systems that are modular, observable, resilient, and built to 
 ---
 
 > *"Any fool can write code that a computer can understand. Good engineers write code that humans can understand—and systems that continue working long after the first deployment."*
-```
